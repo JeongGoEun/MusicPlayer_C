@@ -1,0 +1,33 @@
+c:\users\고은\documents\visual studio 2015\Projects\mp3_client\bin\Debug\mp3_client.exe.config
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\Interop.WMPLib.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\mp3_client.csproj.ResolveComReference.cache
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\bin\Debug\mp3_client.exe
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\bin\Debug\mp3_client.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\mp3_client.Client.resources
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\mp3_client.Properties.Resources.resources
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\mp3_client.csproj.GenerateResource.Cache
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\mp3_client.exe
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\mp3_client.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\Interop.Shell32.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\obj\Debug\mp3_client.csprojResolveAssemblyReference.cache
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_client\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\mp3_client\bin\Debug\mp3_client.exe.config
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\Interop.Shell32.dll
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\Interop.WMPLib.dll
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.csproj.ResolveComReference.cache
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.exe
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.pdb
+C:\Users\고은\Desktop\소실3\mp3_client\bin\Debug\mp3_client.exe
+C:\Users\고은\Desktop\소실3\mp3_client\bin\Debug\mp3_client.pdb
+C:\Users\고은\Desktop\소실3\mp3_client\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.Client.resources
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.Properties.Resources.resources
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.csproj.GenerateResource.Cache
+C:\Users\고은\Desktop\소실3\mp3_client\bin\Debug\mp3_client.exe.manifest
+C:\Users\고은\Desktop\소실3\mp3_client\bin\Debug\mp3_client.application
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.TrustInfo.xml
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.exe.manifest
+C:\Users\고은\Desktop\소실3\mp3_client\obj\Debug\mp3_client.application
+C:\Users\고은\Desktop\소실3\mp3_client\bin\Debug\Interop.Shell32.dll

@@ -1,0 +1,10 @@
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb

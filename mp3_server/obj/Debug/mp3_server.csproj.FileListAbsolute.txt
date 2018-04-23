@@ -1,0 +1,29 @@
+c:\users\고은\documents\visual studio 2015\Projects\mp3_server\bin\Debug\mp3_server.exe.config
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\bin\Debug\mp3_server.exe
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\bin\Debug\mp3_server.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\mp3_server.csprojResolveAssemblyReference.cache
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\Interop.WMPLib.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\mp3_server.csproj.ResolveComReference.cache
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\mp3_server.Properties.Resources.resources
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\mp3_server.csproj.GenerateResource.Cache
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\mp3_server.exe
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\mp3_server.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\mp3_server.Server.resources
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\bin\Debug\Interop.Shell32.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\obj\Debug\Interop.Shell32.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\mp3_server\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\mp3_server\bin\Debug\mp3_server.exe.config
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\Interop.Shell32.dll
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\Interop.WMPLib.dll
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\mp3_server.csproj.ResolveComReference.cache
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\mp3_server.exe
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\mp3_server.pdb
+C:\Users\고은\Desktop\소실3\mp3_server\bin\Debug\mp3_server.exe
+C:\Users\고은\Desktop\소실3\mp3_server\bin\Debug\mp3_server.pdb
+C:\Users\고은\Desktop\소실3\mp3_server\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\소실3\mp3_server\bin\Debug\Interop.Shell32.dll
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\mp3_server.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\mp3_server.Server.resources
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\mp3_server.Properties.Resources.resources
+C:\Users\고은\Desktop\소실3\mp3_server\obj\Debug\mp3_server.csproj.GenerateResource.Cache
